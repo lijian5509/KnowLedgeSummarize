@@ -1,2 +1,2 @@
 # KnowLedgeSummarize
-git@github.com:lijian5509/KnowLedgeSummarize.git/嗨家数据库.jpg
+https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg
