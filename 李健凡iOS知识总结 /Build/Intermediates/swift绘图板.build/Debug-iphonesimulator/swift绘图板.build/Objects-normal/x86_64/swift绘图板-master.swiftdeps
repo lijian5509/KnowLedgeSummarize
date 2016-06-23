@@ -1,0 +1,16 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "9f99c3bba412e40ee12f20f6bc747e1a"
+build_time: [518695959, 922705000]
+inputs:
+  "/Users/mac/Desktop/\u5F00\u53D1\u7D20\u6750/\u9879\u76EE\u8D44\u6599/\u674E\u5065\u51E1iOS\u77E5\u8BC6\u603B\u7ED3 /swift\u7ED8\u56FE\u677F/swift\u7ED8\u56FE\u677F/EraserBrush.swift": [504325514, 0]
+  "/Users/mac/Desktop/\u5F00\u53D1\u7D20\u6750/\u9879\u76EE\u8D44\u6599/\u674E\u5065\u51E1iOS\u77E5\u8BC6\u603B\u7ED3 /swift\u7ED8\u56FE\u677F/swift\u7ED8\u56FE\u677F/RectangleBrush.swift": [504325514, 0]
+  "/Users/mac/Desktop/\u5F00\u53D1\u7D20\u6750/\u9879\u76EE\u8D44\u6599/\u674E\u5065\u51E1iOS\u77E5\u8BC6\u603B\u7ED3 /swift\u7ED8\u56FE\u677F/swift\u7ED8\u56FE\u677F/LJFViewController.swift": [504325514, 0]
+  "/Users/mac/Desktop/\u5F00\u53D1\u7D20\u6750/\u9879\u76EE\u8D44\u6599/\u674E\u5065\u51E1iOS\u77E5\u8BC6\u603B\u7ED3 /swift\u7ED8\u56FE\u677F/swift\u7ED8\u56FE\u677F/PencilBrush.swift": [517289354, 0]
+  "/Users/mac/Desktop/\u5F00\u53D1\u7D20\u6750/\u9879\u76EE\u8D44\u6599/\u674E\u5065\u51E1iOS\u77E5\u8BC6\u603B\u7ED3 /swift\u7ED8\u56FE\u677F/swift\u7ED8\u56FE\u677F/PaintingBrushSettingsView.swift": [504325514, 0]
+  "/Users/mac/Desktop/\u5F00\u53D1\u7D20\u6750/\u9879\u76EE\u8D44\u6599/\u674E\u5065\u51E1iOS\u77E5\u8BC6\u603B\u7ED3 /swift\u7ED8\u56FE\u677F/swift\u7ED8\u56FE\u677F/BaseBrush.swift": [504325514, 0]
+  "/Users/mac/Desktop/\u5F00\u53D1\u7D20\u6750/\u9879\u76EE\u8D44\u6599/\u674E\u5065\u51E1iOS\u77E5\u8BC6\u603B\u7ED3 /swift\u7ED8\u56FE\u677F/swift\u7ED8\u56FE\u677F/RGBColorPicker.swift": [504325514, 0]
+  "/Users/mac/Desktop/\u5F00\u53D1\u7D20\u6750/\u9879\u76EE\u8D44\u6599/\u674E\u5065\u51E1iOS\u77E5\u8BC6\u603B\u7ED3 /swift\u7ED8\u56FE\u677F/swift\u7ED8\u56FE\u677F/DashLineBrush.swift": [504325514, 0]
+  "/Users/mac/Desktop/\u5F00\u53D1\u7D20\u6750/\u9879\u76EE\u8D44\u6599/\u674E\u5065\u51E1iOS\u77E5\u8BC6\u603B\u7ED3 /swift\u7ED8\u56FE\u677F/swift\u7ED8\u56FE\u677F/AppDelegate.swift": [504325514, 0]
+  "/Users/mac/Desktop/\u5F00\u53D1\u7D20\u6750/\u9879\u76EE\u8D44\u6599/\u674E\u5065\u51E1iOS\u77E5\u8BC6\u603B\u7ED3 /swift\u7ED8\u56FE\u677F/swift\u7ED8\u56FE\u677F/EllipseBrush.swift": [504325514, 0]
+  "/Users/mac/Desktop/\u5F00\u53D1\u7D20\u6750/\u9879\u76EE\u8D44\u6599/\u674E\u5065\u51E1iOS\u77E5\u8BC6\u603B\u7ED3 /swift\u7ED8\u56FE\u677F/swift\u7ED8\u56FE\u677F/LineBrush.swift": [504325514, 0]
+  "/Users/mac/Desktop/\u5F00\u53D1\u7D20\u6750/\u9879\u76EE\u8D44\u6599/\u674E\u5065\u51E1iOS\u77E5\u8BC6\u603B\u7ED3 /swift\u7ED8\u56FE\u677F/swift\u7ED8\u56FE\u677F/Board.swift": [517289354, 0]

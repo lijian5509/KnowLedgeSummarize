@@ -1,0 +1,109 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EraserBrush"
+provides-nominal:
+- "CX18swift_GpCizJJgebDb11EraserBrush"
+provides-member:
+- ["CX18swift_GpCizJJgebDb11EraserBrush", ""]
+provides-dynamic-lookup:
+- "drawInContext"
+depends-top-level:
+- "CGContextRef"
+- !private "CGBlendMode"
+- "PencilBrush"
+- "EraserBrush"
+- !private "CGContextSetBlendMode"
+depends-member:
+- !private ["Ps9AnyObject", "CGBlendMode"]
+- !private ["Ps9AnyObject", "CGContextSetBlendMode"]
+- ["Ps9AnyObject", "drawInContext"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", ""]
+- !private ["CX18swift_GpCizJJgebDb9BaseBrush", "CGBlendMode"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "CGContextRef"]
+- !private ["CX18swift_GpCizJJgebDb9BaseBrush", "CGContextSetBlendMode"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "drawInContext"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "init"]
+- !private ["OSC11CGBlendMode", "Clear"]
+- !private ["Ps11CVarArgType", "CGBlendMode"]
+- !private ["Ps11CVarArgType", "CGContextSetBlendMode"]
+- ["Ps11CVarArgType", "drawInContext"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps28CustomDebugStringConvertible", "CGBlendMode"]
+- !private ["Ps28CustomDebugStringConvertible", "CGContextSetBlendMode"]
+- ["Ps28CustomDebugStringConvertible", "drawInContext"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "CGBlendMode"]
+- !private ["Ps23CustomStringConvertible", "CGContextSetBlendMode"]
+- ["Ps23CustomStringConvertible", "drawInContext"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "CGBlendMode"]
+- !private ["Ps9Equatable", "CGContextSetBlendMode"]
+- !private ["Ps9Equatable", "Clear"]
+- ["Ps9Equatable", "drawInContext"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", ""]
+- !private ["CX18swift_GpCizJJgebDb11EraserBrush", "CGBlendMode"]
+- ["CX18swift_GpCizJJgebDb11EraserBrush", "CGContextRef"]
+- !private ["CX18swift_GpCizJJgebDb11EraserBrush", "CGContextSetBlendMode"]
+- ["CX18swift_GpCizJJgebDb11EraserBrush", "deinit"]
+- ["CX18swift_GpCizJJgebDb11EraserBrush", "drawInContext"]
+- ["CX18swift_GpCizJJgebDb11EraserBrush", "init"]
+- !private ["Ps8Hashable", "CGBlendMode"]
+- !private ["Ps8Hashable", "CGContextSetBlendMode"]
+- !private ["Ps8Hashable", "Clear"]
+- ["Ps8Hashable", "drawInContext"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", ""]
+- !private ["CSo8NSObject", "CGBlendMode"]
+- ["CSo8NSObject", "CGContextRef"]
+- !private ["CSo8NSObject", "CGContextSetBlendMode"]
+- ["CSo8NSObject", "drawInContext"]
+- ["CSo8NSObject", "init"]
+- !private ["PSo16NSObjectProtocol", "CGBlendMode"]
+- !private ["PSo16NSObjectProtocol", "CGContextSetBlendMode"]
+- ["PSo16NSObjectProtocol", "drawInContext"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PX18swift_GpCizJJgebDb10PaintBrush", "CGBlendMode"]
+- !private ["PX18swift_GpCizJJgebDb10PaintBrush", "CGContextSetBlendMode"]
+- ["PX18swift_GpCizJJgebDb10PaintBrush", "drawInContext"]
+- ["PX18swift_GpCizJJgebDb10PaintBrush", "init"]
+- ["PX18swift_GpCizJJgebDb10PaintBrush", ""]
+- !private ["CX18swift_GpCizJJgebDb11PencilBrush", "CGBlendMode"]
+- ["CX18swift_GpCizJJgebDb11PencilBrush", "CGContextRef"]
+- !private ["CX18swift_GpCizJJgebDb11PencilBrush", "CGContextSetBlendMode"]
+- !private ["CX18swift_GpCizJJgebDb11PencilBrush", "deinit"]
+- ["CX18swift_GpCizJJgebDb11PencilBrush", "drawInContext"]
+- ["CX18swift_GpCizJJgebDb11PencilBrush", "init"]
+- ["CX18swift_GpCizJJgebDb11PencilBrush", ""]
+- !private ["Ps16RawRepresentable", "Clear"]
+depends-nominal:
+- "Ps9AnyObject"
+- "CX18swift_GpCizJJgebDb9BaseBrush"
+- !private "OSC11CGBlendMode"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "CX18swift_GpCizJJgebDb11EraserBrush"
+- "Ps8Hashable"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PX18swift_GpCizJJgebDb10PaintBrush"
+- "CX18swift_GpCizJJgebDb11PencilBrush"
+- !private "Ps16RawRepresentable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "67532ebf1486e340c206a1ca4ebe493d"

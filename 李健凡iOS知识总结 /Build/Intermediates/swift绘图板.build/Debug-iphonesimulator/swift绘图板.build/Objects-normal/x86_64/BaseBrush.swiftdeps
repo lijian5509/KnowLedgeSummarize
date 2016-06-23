@@ -1,0 +1,144 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PaintBrush"
+- "BaseBrush"
+provides-nominal:
+- "PX18swift_GpCizJJgebDb10PaintBrush"
+- "CX18swift_GpCizJJgebDb9BaseBrush"
+provides-member:
+- ["PX18swift_GpCizJJgebDb10PaintBrush", ""]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", ""]
+provides-dynamic-lookup:
+- "drawInContext"
+- "supportedContinuousDrawing"
+depends-top-level:
+- "CGPoint"
+- "BaseBrush"
+- !private "assert"
+- "NSObject"
+- "CGFloat"
+- !private "BooleanLiteralType"
+- "PaintBrush"
+- "CGContextRef"
+- "Bool"
+- !private "StringLiteralType"
+depends-member:
+- !private ["Ps9AnyObject", "assert"]
+- ["Ps9AnyObject", "beginPoint"]
+- ["Ps9AnyObject", "drawInContext"]
+- ["Ps9AnyObject", "endPoint"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "lastPoint"]
+- ["Ps9AnyObject", "strokeWith"]
+- ["Ps9AnyObject", "supportedContinuousDrawing"]
+- ["Ps9AnyObject", ""]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "Bool"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "CGContextRef"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "CGFloat"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "CGPoint"]
+- !private ["CX18swift_GpCizJJgebDb9BaseBrush", "assert"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "beginPoint"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "deinit"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "drawInContext"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "endPoint"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "init"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "lastPoint"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "strokeWith"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "supportedContinuousDrawing"]
+- !private ["Ps11CVarArgType", "assert"]
+- ["Ps11CVarArgType", "beginPoint"]
+- ["Ps11CVarArgType", "drawInContext"]
+- ["Ps11CVarArgType", "endPoint"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "lastPoint"]
+- ["Ps11CVarArgType", "strokeWith"]
+- ["Ps11CVarArgType", "supportedContinuousDrawing"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps28CustomDebugStringConvertible", "assert"]
+- ["Ps28CustomDebugStringConvertible", "beginPoint"]
+- ["Ps28CustomDebugStringConvertible", "drawInContext"]
+- ["Ps28CustomDebugStringConvertible", "endPoint"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "lastPoint"]
+- ["Ps28CustomDebugStringConvertible", "strokeWith"]
+- ["Ps28CustomDebugStringConvertible", "supportedContinuousDrawing"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "assert"]
+- ["Ps23CustomStringConvertible", "beginPoint"]
+- ["Ps23CustomStringConvertible", "drawInContext"]
+- ["Ps23CustomStringConvertible", "endPoint"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "lastPoint"]
+- ["Ps23CustomStringConvertible", "strokeWith"]
+- ["Ps23CustomStringConvertible", "supportedContinuousDrawing"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "assert"]
+- ["Ps9Equatable", "beginPoint"]
+- ["Ps9Equatable", "drawInContext"]
+- ["Ps9Equatable", "endPoint"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "lastPoint"]
+- ["Ps9Equatable", "strokeWith"]
+- ["Ps9Equatable", "supportedContinuousDrawing"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "assert"]
+- ["Ps8Hashable", "beginPoint"]
+- ["Ps8Hashable", "drawInContext"]
+- ["Ps8Hashable", "endPoint"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "lastPoint"]
+- ["Ps8Hashable", "strokeWith"]
+- ["Ps8Hashable", "supportedContinuousDrawing"]
+- ["Ps8Hashable", ""]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "CGContextRef"]
+- ["CSo8NSObject", "CGFloat"]
+- ["CSo8NSObject", "CGPoint"]
+- !private ["CSo8NSObject", "assert"]
+- ["CSo8NSObject", "beginPoint"]
+- ["CSo8NSObject", "drawInContext"]
+- ["CSo8NSObject", "endPoint"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "lastPoint"]
+- ["CSo8NSObject", "strokeWith"]
+- ["CSo8NSObject", "supportedContinuousDrawing"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "assert"]
+- ["PSo16NSObjectProtocol", "beginPoint"]
+- ["PSo16NSObjectProtocol", "drawInContext"]
+- ["PSo16NSObjectProtocol", "endPoint"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "lastPoint"]
+- ["PSo16NSObjectProtocol", "strokeWith"]
+- ["PSo16NSObjectProtocol", "supportedContinuousDrawing"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PX18swift_GpCizJJgebDb10PaintBrush", "Bool"]
+- ["PX18swift_GpCizJJgebDb10PaintBrush", "CGContextRef"]
+- !private ["PX18swift_GpCizJJgebDb10PaintBrush", "assert"]
+- ["PX18swift_GpCizJJgebDb10PaintBrush", "drawInContext"]
+- ["PX18swift_GpCizJJgebDb10PaintBrush", "supportedContinuousDrawing"]
+- ["PX18swift_GpCizJJgebDb10PaintBrush", ""]
+- !private ["Vs12StaticString", "deinit"]
+depends-nominal:
+- "Ps9AnyObject"
+- "CX18swift_GpCizJJgebDb9BaseBrush"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PX18swift_GpCizJJgebDb10PaintBrush"
+- !private "Vs12StaticString"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "8f1c5efc5e0bc76244a87591edda4cf5"

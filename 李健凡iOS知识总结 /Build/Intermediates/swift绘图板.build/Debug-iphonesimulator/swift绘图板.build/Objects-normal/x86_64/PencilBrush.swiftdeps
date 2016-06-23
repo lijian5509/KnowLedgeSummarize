@@ -1,0 +1,160 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PencilBrush"
+provides-nominal:
+- "CX18swift_GpCizJJgebDb11PencilBrush"
+provides-member:
+- ["CX18swift_GpCizJJgebDb11PencilBrush", ""]
+provides-dynamic-lookup:
+- "supportedContinuousDrawing"
+- "drawInContext"
+depends-top-level:
+- "Bool"
+- !private "CGContextMoveToPoint"
+- "CGContextRef"
+- "PencilBrush"
+- !private "BooleanLiteralType"
+- !private "CGContextAddLineToPoint"
+- "BaseBrush"
+depends-member:
+- !private ["Ps9AnyObject", "CGContextAddLineToPoint"]
+- !private ["Ps9AnyObject", "CGContextMoveToPoint"]
+- !private ["Ps9AnyObject", "beginPoint"]
+- ["Ps9AnyObject", "drawInContext"]
+- !private ["Ps9AnyObject", "endPoint"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "lastPoint"]
+- ["Ps9AnyObject", "supportedContinuousDrawing"]
+- ["Ps9AnyObject", ""]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "Bool"]
+- !private ["CX18swift_GpCizJJgebDb9BaseBrush", "CGContextAddLineToPoint"]
+- !private ["CX18swift_GpCizJJgebDb9BaseBrush", "CGContextMoveToPoint"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "CGContextRef"]
+- !private ["CX18swift_GpCizJJgebDb9BaseBrush", "beginPoint"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "drawInContext"]
+- !private ["CX18swift_GpCizJJgebDb9BaseBrush", "endPoint"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "init"]
+- !private ["CX18swift_GpCizJJgebDb9BaseBrush", "lastPoint"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", "supportedContinuousDrawing"]
+- ["CX18swift_GpCizJJgebDb9BaseBrush", ""]
+- !private ["VSC7CGPoint", "x"]
+- !private ["VSC7CGPoint", "y"]
+- !private ["Ps11CVarArgType", "CGContextAddLineToPoint"]
+- !private ["Ps11CVarArgType", "CGContextMoveToPoint"]
+- !private ["Ps11CVarArgType", "beginPoint"]
+- ["Ps11CVarArgType", "drawInContext"]
+- !private ["Ps11CVarArgType", "endPoint"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "lastPoint"]
+- ["Ps11CVarArgType", "supportedContinuousDrawing"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps28CustomDebugStringConvertible", "CGContextAddLineToPoint"]
+- !private ["Ps28CustomDebugStringConvertible", "CGContextMoveToPoint"]
+- ["Ps28CustomDebugStringConvertible", "Some"]
+- !private ["Ps28CustomDebugStringConvertible", "beginPoint"]
+- ["Ps28CustomDebugStringConvertible", "drawInContext"]
+- !private ["Ps28CustomDebugStringConvertible", "endPoint"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "lastPoint"]
+- ["Ps28CustomDebugStringConvertible", "supportedContinuousDrawing"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "CGContextAddLineToPoint"]
+- !private ["Ps23CustomStringConvertible", "CGContextMoveToPoint"]
+- !private ["Ps23CustomStringConvertible", "beginPoint"]
+- ["Ps23CustomStringConvertible", "drawInContext"]
+- !private ["Ps23CustomStringConvertible", "endPoint"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "lastPoint"]
+- ["Ps23CustomStringConvertible", "supportedContinuousDrawing"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "CGContextAddLineToPoint"]
+- !private ["Ps9Equatable", "CGContextMoveToPoint"]
+- !private ["Ps9Equatable", "beginPoint"]
+- ["Ps9Equatable", "drawInContext"]
+- !private ["Ps9Equatable", "endPoint"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "lastPoint"]
+- ["Ps9Equatable", "supportedContinuousDrawing"]
+- !private ["Ps9Equatable", "x"]
+- !private ["Ps9Equatable", "y"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "CGContextAddLineToPoint"]
+- !private ["Ps8Hashable", "CGContextMoveToPoint"]
+- !private ["Ps8Hashable", "beginPoint"]
+- ["Ps8Hashable", "drawInContext"]
+- !private ["Ps8Hashable", "endPoint"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "lastPoint"]
+- ["Ps8Hashable", "supportedContinuousDrawing"]
+- ["Ps8Hashable", ""]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "CGContextAddLineToPoint"]
+- !private ["CSo8NSObject", "CGContextMoveToPoint"]
+- ["CSo8NSObject", "CGContextRef"]
+- !private ["CSo8NSObject", "beginPoint"]
+- ["CSo8NSObject", "drawInContext"]
+- !private ["CSo8NSObject", "endPoint"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "lastPoint"]
+- ["CSo8NSObject", "supportedContinuousDrawing"]
+- !private ["PSo16NSObjectProtocol", "CGContextAddLineToPoint"]
+- !private ["PSo16NSObjectProtocol", "CGContextMoveToPoint"]
+- !private ["PSo16NSObjectProtocol", "beginPoint"]
+- ["PSo16NSObjectProtocol", "drawInContext"]
+- !private ["PSo16NSObjectProtocol", "endPoint"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "lastPoint"]
+- ["PSo16NSObjectProtocol", "supportedContinuousDrawing"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Ps21NilLiteralConvertible", "Some"]
+- ["Sq", "Some"]
+- !private ["PX18swift_GpCizJJgebDb10PaintBrush", "CGContextAddLineToPoint"]
+- !private ["PX18swift_GpCizJJgebDb10PaintBrush", "CGContextMoveToPoint"]
+- !private ["PX18swift_GpCizJJgebDb10PaintBrush", "beginPoint"]
+- ["PX18swift_GpCizJJgebDb10PaintBrush", "drawInContext"]
+- !private ["PX18swift_GpCizJJgebDb10PaintBrush", "endPoint"]
+- ["PX18swift_GpCizJJgebDb10PaintBrush", "init"]
+- !private ["PX18swift_GpCizJJgebDb10PaintBrush", "lastPoint"]
+- ["PX18swift_GpCizJJgebDb10PaintBrush", "supportedContinuousDrawing"]
+- ["PX18swift_GpCizJJgebDb10PaintBrush", ""]
+- ["CX18swift_GpCizJJgebDb11PencilBrush", "Bool"]
+- !private ["CX18swift_GpCizJJgebDb11PencilBrush", "CGContextAddLineToPoint"]
+- !private ["CX18swift_GpCizJJgebDb11PencilBrush", "CGContextMoveToPoint"]
+- ["CX18swift_GpCizJJgebDb11PencilBrush", "CGContextRef"]
+- !private ["CX18swift_GpCizJJgebDb11PencilBrush", "beginPoint"]
+- ["CX18swift_GpCizJJgebDb11PencilBrush", "deinit"]
+- ["CX18swift_GpCizJJgebDb11PencilBrush", "drawInContext"]
+- !private ["CX18swift_GpCizJJgebDb11PencilBrush", "endPoint"]
+- ["CX18swift_GpCizJJgebDb11PencilBrush", "init"]
+- !private ["CX18swift_GpCizJJgebDb11PencilBrush", "lastPoint"]
+- ["CX18swift_GpCizJJgebDb11PencilBrush", "supportedContinuousDrawing"]
+- ["Ps12_Reflectable", "Some"]
+- !private ["Ps12_Reflectable", "x"]
+- !private ["Ps12_Reflectable", "y"]
+depends-nominal:
+- "Ps9AnyObject"
+- "CX18swift_GpCizJJgebDb9BaseBrush"
+- !private "VSC7CGPoint"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Ps21NilLiteralConvertible"
+- "Sq"
+- "PX18swift_GpCizJJgebDb10PaintBrush"
+- "CX18swift_GpCizJJgebDb11PencilBrush"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "f0eb23eee835eef1ea76a8edd5f1844e"

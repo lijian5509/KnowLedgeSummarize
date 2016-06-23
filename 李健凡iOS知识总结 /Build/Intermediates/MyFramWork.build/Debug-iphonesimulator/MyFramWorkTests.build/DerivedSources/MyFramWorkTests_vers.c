@@ -1,0 +1,1 @@
+ const unsigned char MyFramWorkTestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:MyFramWorkTests  PROJECT:MyFramWork-1" "\n"; const double MyFramWorkTestsVersionNumber __attribute__ ((used)) = (double)1.;
